@@ -1,7 +1,7 @@
 # 除錯 （練習）
 
 ## 第 1 題
-[`DebugExercise1.java`](src/DebugExercise1.java) 這程式的目標是輸入三個整數 a，b，c，然後輸出 (a+b)<sup>2</sup> % c 的值。
+[`DebugExercise1.java`](src/DebugExercise1.java) 這程式的目標是讀取三個整數 a，b，c，然後輸出 (a+b)<sup>2</sup> % c 的值。
 
 * 例 1：a=4, b=3, c=10, d=7<sup>2</sup> % 10 = 9
 * 例 2：a=30000, b=50000, c=10, d = 80000<sup>2</sup> % 10 = 0

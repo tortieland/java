@@ -4,10 +4,18 @@
 
 以下哪些是有效的 Java 識別符？
 
-|  |  |  |  |  |
-|--|--|--|--|--|
-| (a) `Int` | (b) `void`   | (c) `print`  | (d) `word_one` | (e) `A1000`   |
-| (f) `1000A` | (g) `____` | (h) `word-2` | (i) `main` | (j) `IN` |
+```
+a.  Int 
+b.  void
+c.  print
+d.  word_one
+e.  A1000
+f.  1000A
+g.  _
+h.  word-2
+i.  main
+j.  IN
+```
 
 註：如欲查 Java 的關鍵字，可用搜尋引擎搜尋  `java language keywords` 或 `java 關鍵字`。
 
