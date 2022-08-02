@@ -1,11 +1,11 @@
 # 基本概念
 
 ## 簡介
-本章旨在透過 Java 介紹編程的基本概念。
+本章旨在透過 Java 介紹程式設計的基本概念。
 
 ## 内容
 
-- 什麽是編程？
+- 什麽是程式設計？
 - [Java 程式簡介](
     https://docs.google.com/presentation/d/1_XwSM3gH_L7N4gPiF6PmTlT90Vg-V2UPSR64V2_-AOE/edit 
     "Google Slides"
